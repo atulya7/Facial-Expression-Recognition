@@ -13,12 +13,17 @@
 
 Demo:
  #For images 
+ 
  python demo.py --input [path_to_input_image]
  
  #Example
- python demo.py --input data/inputs/0.jpg 
+ 
+ python demo.py --input data/inputs/0.jpg
+ 
  #For videos
+ 
  python demo.py --input [path_to_input_video] --video 
  
  #Example
+ 
  python demo.py --input data/inputs/vid0.mp4 
