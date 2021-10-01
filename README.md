@@ -1,10 +1,15 @@
 # Facial-Expression-Recognition
 
-  opencv-python==4.2.0
-   matplotlib==3.3.0
-   numpy==1.19.1
-   pandas==1.0.5
-   keras==2.3.1
+  opencv-python==4.2.0.
+  
+  matplotlib==3.3.0
+  
+  numpy==1.19.1
+  
+  pandas==1.0.5
+  
+  keras==2.3.1
+  
 
 Demo:
  #For images 
